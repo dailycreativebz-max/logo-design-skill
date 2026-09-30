@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Paint &amp; Pillows — Sweep symbol</title>
+  <g fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="19" d="M70 79c-14-21 6-42 31-32 19 8 23 30 8 49-12 15-43 25-49 47-7 25 21 43 45 39 27-4 49-24 69-49"/>
+    <path stroke-width="19" d="M107 91c17 24 40 37 66 48 22 10 27 28 16 42-13 18-42 14-60-2"/>
+    <path stroke-width="13" d="M177 134c14-16 23-32 27-48"/>
+  </g>
+  <circle cx="202" cy="67" r="10" fill="#111111"/>
+</svg>

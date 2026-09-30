@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Paint &amp; Pillows — Interlock symbol</title>
+  <g fill="none" stroke="#111111" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67 215V41h72a49 49 0 0 1 0 98H67"/>
+    <path d="M189 41v174h-72a49 49 0 0 1 0-98h72"/>
+  </g>
+</svg>

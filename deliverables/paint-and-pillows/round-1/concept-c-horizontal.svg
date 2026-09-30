@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256" role="img" aria-labelledby="title">
+  <title id="title">Paint &amp; Pillows — Sweep horizontal logo</title>
+  <g transform="translate(17 49) scale(.64)" fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="19" d="M70 79c-14-21 6-42 31-32 19 8 23 30 8 49-12 15-43 25-49 47-7 25 21 43 45 39 27-4 49-24 69-49"/>
+    <path stroke-width="19" d="M107 91c17 24 40 37 66 48 22 10 27 28 16 42-13 18-42 14-60-2"/>
+    <path stroke-width="13" d="M177 134c14-16 23-32 27-48"/>
+  </g>
+  <circle cx="146" cy="92" r="6.5" fill="#111111"/>
+  <path d="M220 61v134" stroke="#111111" stroke-width="2"/>
+  <g fill="#111111" font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="254" y="123" font-size="44" font-weight="600" letter-spacing="1.1">Paint &amp; Pillows</text>
+    <text x="257" y="157" font-size="13" font-weight="500" letter-spacing="4.2">INTERIOR DESIGN STUDIO</text>
+  </g>
+</svg>

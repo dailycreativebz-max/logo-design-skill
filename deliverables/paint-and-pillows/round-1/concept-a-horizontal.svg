@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256" role="img" aria-labelledby="title">
+  <title id="title">Paint &amp; Pillows — Interlock horizontal logo</title>
+  <g transform="translate(18 48) scale(.63)" fill="none" stroke="#111111" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67 215V41h72a49 49 0 0 1 0 98H67"/>
+    <path d="M189 41v174h-72a49 49 0 0 1 0-98h72"/>
+  </g>
+  <path d="M220 61v134" stroke="#111111" stroke-width="2"/>
+  <g fill="#111111" font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="254" y="123" font-size="44" font-weight="600" letter-spacing="1.1">Paint &amp; Pillows</text>
+    <text x="257" y="157" font-size="13" font-weight="500" letter-spacing="4.2">INTERIOR DESIGN STUDIO</text>
+  </g>
+</svg>
